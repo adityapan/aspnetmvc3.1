@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using SImpleMVC.Models;
+﻿using System.Collections.Generic;
+using SimpleMVC.Models;
 
-namespace SImpleMVC.Repositories
+namespace SimpleMVC.Repositories
 {
     public interface IBooksRepository
     {

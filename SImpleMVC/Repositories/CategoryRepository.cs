@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using SImpleMVC.Models;
+using SimpleMVC.Models;
 
-namespace SImpleMVC.Repositories
+namespace SimpleMVC.Repositories
 {
-    public class CategoryRepsitory : ICategoryRepository
+    public class MockedCategoryRepository : ICategoryRepository
     {
         public IEnumerable<Category> GetAllCategories()
         {

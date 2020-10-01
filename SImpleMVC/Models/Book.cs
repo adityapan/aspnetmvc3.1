@@ -1,5 +1,5 @@
 ﻿using System;
-namespace SImpleMVC.Models
+namespace SimpleMVC.Models
 {
     public class Book
     {
